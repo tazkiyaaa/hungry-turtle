@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Jamur
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Jamur\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=maxtime
+comment1.target=Jamur(int)
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ resetJamur()
+numComments=4
